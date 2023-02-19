@@ -1,0 +1,6 @@
+Link al video:
+
+https://youtu.be/MoKen410Z2w
+
+*Como aclaración en el video aparece que el contador de timer0 llega hasta A (10), pero luego cambié el código para que llegara
+hasta 9 (cambie un 11 por un 10 en el sublw) y se reseteara (disculpen el error en la simulación), ahora (asuman que) llega a 9 y no a A
