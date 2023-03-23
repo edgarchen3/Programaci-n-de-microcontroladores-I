@@ -1,0 +1,3 @@
+Para declara un puntero se usa *, si no se inicializa, al inicializarlo luego ya no se usa *.
+Para declarar constatantes de librerias, usar #define, porque const lanza error.
+Al hacer una operación arimética con un elemento al cuál apunta el puntero, es necesario colocarle * para usarlo.
